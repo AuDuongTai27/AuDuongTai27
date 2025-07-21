@@ -1,8 +1,8 @@
 ### 👋 Hi there, I'm Tai Au
-✨ Exploring the future of Information Technology as a student at Eastern International University (EIU).
-🔍 Passionate about software development, AI, and emerging tech—currently shaping my career path in IT.
-🎓 Active learner at EIU FabLab (Binh Duong, Vietnam), engaging with STEM and robotics to expand my technical skills.
-🌱 Eager to apply cutting-edge technologies to solve real-world challenges in the digital era.
+✨ **Exploring the future of Information Technology** as a student at **Eastern International University (EIU)**.  
+🔍 Passionate about software development, AI, and emerging tech—currently shaping my career path in IT.  
+🎓 Active learner at **EIU FabLab (Binh Duong, Vietnam)**, engaging with STEM and robotics to expand my technical skills.  
+🌱 Eager to apply cutting-edge technologies to solve real-world challenges in the digital era.  
 
 
 ### 📬 How to reach me:
